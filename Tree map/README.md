@@ -1,4 +1,3 @@
-**_You will require Wamp serve and Eclipse IDE for Java EE Developers to run this project_**
 
 **1) The Treemap you will get after the code runs**
 
